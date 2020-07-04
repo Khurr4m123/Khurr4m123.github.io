@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Khurram's website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: My personal blogging page 
 
 # Your name to show in the footer
 author: Khurram Omar
@@ -14,9 +14,9 @@ author: Khurram Omar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Amazon: "https://amazon.co.uk"
 
 # --- Logo --- #
 
