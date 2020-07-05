@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My current uninteresting life
 ---
 
 My name is Khurram Omar. These are my hobbies:
