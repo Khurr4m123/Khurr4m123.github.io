@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deciding to learn Japanese   
-subtitle: Detailed guide
+subtitle: Introduction to JLPT test
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [japanese]
