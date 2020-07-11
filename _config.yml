@@ -17,7 +17,7 @@ navbar-links:
     - Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Amazon: "https://amazon.co.uk"
-  CV: "https://github.com/Khurr4m123/Khurr4m123.github.io/assets/Khurram_Omar_CV’’-converted.pdf"
+  CV: "/assets/Khurram_Omar_CV’’-converted.pdf"
 
 # --- Logo --- #
 
