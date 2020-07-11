@@ -1,15 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: My current uninteresting life
+subtitle: My life...
 ---
 
 My name is Khurram Omar. These are my hobbies:
 
-- Learning new things
-- Learning japanese 
+- Reading
+- Learning Japanese
+- Writing a blog
 
 
-### history
 
-Born in Birmingham, UK, and currently studying Chemical Engineering at the University of Birmingham (**it's hard**) [Course link](https://www.birmingham.ac.uk/schools/chemical-engineering/index.aspx) 
+### History
+
+Born in Birmingham, UK, and currently studying Chemical Engineering at the University of Birmingham (**it's tough**) Here's a link to the course website: [Course link](https://www.birmingham.ac.uk/schools/chemical-engineering/index.aspx) 
