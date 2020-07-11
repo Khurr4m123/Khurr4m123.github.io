@@ -9,6 +9,8 @@ description: My personal blogging page
 # Your name to show in the footer
 author: Khurram Omar
 
+#<link rel="shortcut icon" href="http://sstatic.net/stackoverflow/img/favicon.ico">
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
