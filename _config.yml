@@ -15,9 +15,10 @@ author: Khurram Omar
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Japanese Resources:
+    - Translator: "https://www.deepl.com/translator"
+    - Variety: "https://djtguide.neocities.org/cor.html"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
   CV: "/assets/Khurram_Omar_CV’’-converted.pdf"
 
 # --- Logo --- #
