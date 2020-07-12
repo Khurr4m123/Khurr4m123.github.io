@@ -10,6 +10,8 @@ My name is Khurram Omar. These are my hobbies:
 - Reading
 - Learning Japanese
 - Writing a blog
+- Table tennis
+- Running
 
 <br><br/>
 ### History
