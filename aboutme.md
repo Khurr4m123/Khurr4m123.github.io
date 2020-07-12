@@ -11,7 +11,6 @@ My name is Khurram Omar. These are my hobbies:
 - Learning Japanese
 - Writing a blog
 
-
 <br><br/>
 ### History
 
