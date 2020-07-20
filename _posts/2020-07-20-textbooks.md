@@ -25,4 +25,4 @@ Shinkanzen master series
 Shinkanzen master series
 
 **N1 Advanced** 
-Shinkaznen master series 
+Shinkanzen master series 
