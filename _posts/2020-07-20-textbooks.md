@@ -10,8 +10,19 @@ comments: false
 
 
 
-N5 Novice
-N4 Beginner
-N3 Lower intermediate 
-N2 Upper intermediate
-N1 Advanced 
+**N5 Novice**
+Genki I
+
+**N4 Beginner**
+Genki II
+
+**N3 Lower intermediate** 
+Tobira
+Soumatome series
+Shinkanzen master series
+
+**N2 Upper intermediate**
+Shinkanzen master series
+
+**N1 Advanced** 
+Shinkaznen master series 
