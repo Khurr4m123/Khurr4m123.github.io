@@ -5,21 +5,21 @@ The obvious answer is whatever works for you, but there are a few things to keep
 Reading is a very useful skill, and elementary reading skills is often a prerequisite to speaking. Reading comprises of Kanji, grammar and vocabulary, but the hardest part is combining both. Let’s list the main resources learners use to supplement learning these:
 
 **Kanji**
-–	Remembering the Kanji (RTK)
-–	Wanikani
-–	Kanji Textbook 
+*	Remembering the Kanji (RTK)
+*	Wanikani
+*	Kanji Textbook 
 
 **Vocabulary**
-–	Anki or memrise (recommended)
-–	Android/IOS Apps (e.g. Kanji study) 
-–	Vocabulary textbooks (wouldn’t recommend)
+*	Anki or memrise (recommended)
+*	Android/IOS Apps (e.g. Kanji study) 
+*	Vocabulary textbooks (wouldn’t recommend)
 
 **Grammar**
-–	SRS application: Anki 
-–	Grammar Textbook (recommended)
+*	SRS application: Anki 
+*	Grammar Textbook (recommended)
 
 **Combined**
-–	Duolingo or lingodeer
-–	*Immersion
+*	Duolingo or lingodeer
+*	Immersion
 
-*At the end of the day, resources such as those listed above are just supplements. If you have already been using these kinds of resources for a while now, I’d suggest attempting to read an easy Japanese book or listen to a podcast. 
+At the end of the day, resources such as those listed above are just supplements. If you have already been using these kinds of resources for a while now, I’d suggest attempting to read an easy Japanese book or listen to a podcast. 
