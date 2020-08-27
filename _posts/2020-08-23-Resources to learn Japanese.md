@@ -4,6 +4,7 @@ title: Resources to learn Japanese?
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [japanese]
+---
 With the internet comes a wealth of resources. From duolingo to classic Japanese textbooks to articles describing the differences between articles が and は, and flashcard applications like Memrise or Anki. Considering its impossible to fit all of these in your day, which ones should you choose?
 
 The obvious answer is whatever works for you, but there are a few things to keep in mind. Grinding all of these applications will not teach you Japanese. But you need to first define what it means for you to have learned Japanese.  Usually it involves reading, listening, writing and of course speaking. Resources can help you the passive skills - reading and listen, but  active skills involving language production - writing and speaking, can’t be mastered through online resources alone. 
