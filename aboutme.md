@@ -2,7 +2,8 @@
 layout: page
 title: About me
 subtitle: My life...
-cover-img: /assets/img/F2272532-3417-495F-A6CD-B61A8C60F0A8.jpeg
+#cover-img: /assets/img/F2272532-3417-495F-A6CD-B61A8C60F0A8.jpeg
+cover-img: /assets/img/IMG_0972[2038].jpg
 ---
 
 My name is Khurram Omar. These are my hobbies:
